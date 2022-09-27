@@ -2,14 +2,13 @@
 
 ## Who am I? 
 * 📚 Economist. 
-* 📊 Data Science Student.
+* 💻 ServiceNow Technical Consultant.
 * 🎮 I like to play games in my free time.
 
 ## Skills 💻
 
 * 🐍 Python.
 * 🧮 Power BI.
-* 🔮 Machine Learning.
 * 📈 Data Visualization.
 
 ## Find me around the world 🌎:
