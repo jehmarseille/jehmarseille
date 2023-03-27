@@ -7,6 +7,10 @@
 
 ## Skills 💻
 
+* JavaScript
+* HTML
+* CSS
+* SQL
 * 🐍 Python.
 * 🧮 Power BI.
 * 📈 Data Visualization.
